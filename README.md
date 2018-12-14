@@ -40,3 +40,10 @@ model using the Parzen density technique.
 Call pylearn2/scripts/train.py on the various yaml files in this repository
 to train the model for each dataset reported in the paper. The names of
 *.yaml are fairly self-explanatory.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
